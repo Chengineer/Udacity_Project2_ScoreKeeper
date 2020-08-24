@@ -1,4 +1,5 @@
 # Udacity_Project2_ScoreKeeper
+Beer-Pong score keeper
 
 :heart_decoration:
 ### Credits
